@@ -1,2 +1,2 @@
 # Analise-de-Dados-com-Python-Pandas
- Análise de dados com Python e Pandas
+ Estundando  e particando análise de dados com Python e Pandas
